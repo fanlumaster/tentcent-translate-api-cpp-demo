@@ -1,16 +1,20 @@
-# About
+# Tencent Translate API call with cpp demo
 
-This is a template for c++ in Windows.
-
-I use the tool chains below:
+## Requirements
 
 - CMake
 - MSVC(provided by Visual Studio 2022)
 - pwsh7
-- Neovim
 - clangd
+- vcpkg
+- Ninja
 
-Of course, you can replace Neovim with VSCode.
+## How to build and run
 
-Have fun writting C++ in Windows.
+```powersehll
+.\scripts\llaunch.ps1
+```
 
+Then, you could see the output as follows:
+
+![](https://s2.loli.net/2025/04/11/xQYiagVjX71GNzJ.png)
