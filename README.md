@@ -11,6 +11,10 @@
 
 ## How to build and run
 
+First, you need to get your api id and key, just put them in two files named `id.txt` and `key.txt` in the keys directory of your root directory.
+
+Then,
+
 ```powersehll
 .\scripts\llaunch.ps1
 ```
